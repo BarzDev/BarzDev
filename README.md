@@ -4,18 +4,17 @@
 
 <div align="center">
 <h1>
-  Hey Coder..
+  Hello Word.. &#127757
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
-### Hello word, You can call me **Barz** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### **I'm Barz, your friendly neighborhood developer!** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 🐞 **- Currently writing bugs… I mean, features.**  
 💻 **- My code works… most of the time.**  
 ☕ **- I turn caffeine into code and late nights into deployments.**  
-🚀 **- Coding for fun and impact. Let’s collaborate!** 
-
-<br>
+🚀 **- Coding for fun and impact. Let’s collaborate!**  
+🎯 **- Crafting code with passion and precision**  
 
 ### :hammer_and_wrench: My Languages and Tools :
 <div>
