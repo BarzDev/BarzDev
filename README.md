@@ -14,7 +14,7 @@
 💻 **- My code works… most of the time.**  
 ☕ **- I turn caffeine into code and late nights into deployments.**  
 🚀 **- Coding for fun and impact. Let’s collaborate!**  
-🎯 **- Crafting code with passion and precision**  
+🎯 **- Crafting code with passion and precision.**  
 
 ### :hammer_and_wrench: My Languages and Tools :
 <div>
